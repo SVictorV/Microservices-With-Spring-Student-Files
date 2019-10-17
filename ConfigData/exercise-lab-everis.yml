@@ -6,15 +6,5 @@ eureka:
       
  --
  spring:
-  profiles: nombre
- people: Juan,Rodrigo,Maria,Luisa,Victor
- 
- --
- spring:
-  profiles: apellido
- people: Perez,Rodriguez,Gonzalez,Diaz,Sebastian
- 
- --
- spring:
-  profiles: dni
- people: 48552158,13154465,54873264,68776452,70001010
+  profiles: persona
+ people: Juan+Perez,Maria+Rodriguez,Pedro+Gonzalez,Esther+Diaz,Victor+Sebastian

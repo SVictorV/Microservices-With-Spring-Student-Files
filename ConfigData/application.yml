@@ -7,7 +7,8 @@ eureka:
           
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/   
 ---
-mensaje: Se obtuvo el listado de personas exitosamente
+spring:
+  mensaje: Se obtuvo el listado de personas exitosamente
   
 #---
 #spring:

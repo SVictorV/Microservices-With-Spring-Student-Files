@@ -4,6 +4,7 @@ eureka:
   client:
     serviceUrl:
         defaultZone: http://localhost:8010/eureka/
+          mensaje: mensaje: Se obtuvo el listado de personas exitosamente
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/   
 ---
 spring:

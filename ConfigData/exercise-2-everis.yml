@@ -1,17 +1,22 @@
 mensaje: Se obtuvo el listado de personas exitosamente
-personas:
-- dni: '11223344'
-  nombre: Dennis
-  apellido: Wilson
-- dni: '22334455'
-  nombre: Daniel
-  apellido: Martinez
-- dni: '33445566'
-  nombre: Diego
-  apellido: Franco
-- dni: '99887766'
-  nombre: Sofia
-  apellido: Bardales
-- dni: '77668855'
-  nombre: Gabriel
-  apellido: Torres
+persons:
+   -
+     dni: 11223344
+     nombre: Juan
+     apellido: Perez
+   -
+     dni: 22334455
+     nombre: Miguel
+     apellido: Rodriguez
+   -
+     dni: 33445566
+     nombre: Maria
+     apellido: Gonzalez
+   -
+     dni: 99887766
+     nombre: Richard
+     apellido: Ramirez
+   -
+     dni: 77668855
+     nombre: Fernando
+     apellido: Ortiz
